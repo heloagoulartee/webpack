@@ -1,0 +1,10 @@
+/*!******************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/heading.css ***!
+  \******************************************************************************/
+.main-title{
+    background-color: rgb(156, 159, 161);
+    color: aliceblue;
+    border: 1px solid rgb(105, 0, 128)3, 17, 103;
+    text-align: center;
+    padding: 20px;
+}
